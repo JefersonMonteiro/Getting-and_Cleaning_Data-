@@ -1,4 +1,4 @@
-#Steps taken to clean and reshape data
+Steps taken to clean and reshape data:
 
 Read the files that contain the labels for activities.
 
